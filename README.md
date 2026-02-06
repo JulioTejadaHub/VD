@@ -6,7 +6,7 @@ en escenarios de tráfico urbano usando YOLOv8 y transfer learning.
 
 ## Contenido
 - Trabajo_Final.ipynb: notebook principal del proyecto
-- Dataset: obtenido desde Kaggle (no incluido)
+- Dataset: obtenido desde Kaggle (no incluido) - https://www.kaggle.com/datasets/yusufberksardoan/traffic-detection-project/data
 - Modelo: YOLOv8
 - Métricas: Precision, Recall, mAP
 
